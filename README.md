@@ -1,6 +1,6 @@
 # Aurora-Vault ◌
 
-Developed by **Tareq**
+Developed by **Md Tareq Shah Alam**
 
 A high-performance, lightweight **RAG package** designed to simplify building **Retrieval-Augmented Generation (RAG)** applications.
 
