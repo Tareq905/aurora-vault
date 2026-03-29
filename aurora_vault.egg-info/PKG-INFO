@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: aurora-vault
+Version: 1.0.0
+Summary: Universal RAG engine
+Author: Tareq
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: platformdirs
+Requires-Dist: rich
+Dynamic: license-file
+
+# Aurora-Vault ◌
+Developed by **Tareq**
+
+A high-performance, universal RAG engine containing 1.6 million supervised records in a tiny footprint.
+
+## Installation
+```bash
+pip install aurora-vault
