@@ -1,29 +1,22 @@
 [project]
 name = "aurora-vault"
-version = "1.0.1"
+version = "1.0.2"
 description = "Universal RAG engine"
 authors = [
-    { name="Tareq", email="tareqshah.027@gmail.com" }
+    { name = "Tareq", email = "tareqshah.027@gmail.com" }
 ]
 readme = "README.md"
 license = { text = "MIT" }
-homepage = "https://github.com/Tareq905/aurora-vault"
-
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "aurora-vault"
-version = "1.0.0"
-authors = [{ name = "Tareq" }]
-description = "Universal RAG engine"
-readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
     "platformdirs",
     "rich"
 ]
+urls = { Homepage = "https://github.com/Tareq905/aurora-vault" }
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]
 where = ["."]
@@ -31,4 +24,3 @@ include = ["aurora_vault*"]
 
 [tool.setuptools.package-data]
 "aurora_vault.assets" = ["*.txt"]
-
