@@ -6,7 +6,7 @@ A high-performance, lightweight **RAG package** designed to simplify building **
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Aurora-Vault** is a compact and efficient Python package that provides the core components required to build RAG-based applications quickly and effectively.
 
@@ -16,18 +16,18 @@ This is **Version 1**, focused on delivering a stable and developer-friendly fou
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* ⚡ **Fast & Efficient** — Optimized for quick retrieval and response
-* 📦 **Lightweight Package** — Easy to install and integrate
-* 🧠 **RAG-Ready** — Designed to plug into any LLM pipeline
-* 📊 **650K+ Data Backbone** — Strong contextual understanding
-* 🔌 **Developer-Friendly API** — Simple and clean usage
-* 🔄 **Extensible** — Built for scaling and customization
+* **Fast & Efficient** — Optimized for quick retrieval and response
+* **Lightweight Package** — Easy to install and integrate
+* **RAG-Ready** — Designed to plug into any LLM pipeline
+* **650K+ Data Backbone** — Strong contextual understanding
+* **Developer-Friendly API** — Simple and clean usage
+* **Extensible** — Built for scaling and customization
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install aurora-vault
@@ -35,7 +35,7 @@ pip install aurora-vault
 
 ---
 
-## 🧩 What This Package Does
+## What This Package Does
 
 Aurora-Vault provides:
 
@@ -44,11 +44,11 @@ Aurora-Vault provides:
 * Lightweight knowledge base handling
 * Components to integrate with LLMs
 
-👉 It is **not a full standalone system**, but a **building block** to create your own RAG pipelines.
+ It is **not a full standalone system**, but a **building block** to create your own RAG pipelines.
 
 ---
 
-## 🧩 Use Cases
+## Use Cases
 
 * AI Chatbots
 * Knowledge Retrieval Tools
@@ -58,21 +58,30 @@ Aurora-Vault provides:
 
 ---
 
-## 🛠️ Roadmap
+## Roadmap
 
-* 🔍 Improved retrieval modules
-* 📈 Expanded dataset support
-* 🧠 Better embedding integration
-* ⚙️ Configurable pipelines
-* 🌐 Domain-specific extensions
+* Improved retrieval modules
+* Expanded dataset support
+* Better embedding integration
+* Configurable pipelines
+* Domain-specific extensions
 
-## 🤝 Contributing
+---
+
+## Version
+
+**Current Version:** `v1.0.x`
+Initial release of Aurora-Vault package.
+
+---
+
+## Contributing
 
 Contributions and ideas are welcome.
 Let’s build a better RAG ecosystem together.
 
 ---
 
-## 📄 License
+## License
 
 MIT License
