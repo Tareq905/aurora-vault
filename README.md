@@ -66,15 +66,6 @@ Aurora-Vault provides:
 * Configurable pipelines
 * Domain-specific extensions
 
----
-
-## Version
-
-**Current Version:** `v1.0.x`
-Initial release of Aurora-Vault package.
-
----
-
 ## Contributing
 
 Contributions and ideas are welcome.

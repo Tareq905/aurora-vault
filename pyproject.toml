@@ -1,6 +1,6 @@
 [project]
 name = "aurora-vault"
-version = "1.0.2"
+version = "1.0.4"
 description = "Universal RAG engine"
 authors = [
     { name = "Tareq", email = "tareqshah.027@gmail.com" }
